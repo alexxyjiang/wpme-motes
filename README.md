@@ -1,5 +1,5 @@
 # wpme-notes
-**wpme-notes** is a repository for taking notes of the book **Word Power Made Easy**. It's written in iPyhong-Notebook (*ipynb*) format and reviewable on GitHub.
+**wpme-notes** is a repository for taking notes of the book **Word Power Made Easy**. It's written in iPython-Notebook (*ipynb*) format and reviewable on GitHub.
 
 ### prerequisite
 You should get a machine with *docker* installed. Commands are tested on *Debian 9*.
